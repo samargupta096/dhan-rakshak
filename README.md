@@ -184,6 +184,3 @@ Dhan-Rakshak connects to various services to provide real-time data while mainta
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
