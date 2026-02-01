@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Dhan-Rakshak</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_portfolio">Portfolio</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Dashboard -->
+    <string name="total_net_worth">Total Net Worth</string>
+    <string name="asset_allocation">Asset Allocation</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="currency_format">₹%,.2f</string>
+    
+    <!-- Portfolio -->
+    <string name="stocks">Stocks</string>
+    <string name="mutual_funds">Mutual Funds</string>
+    <string name="gold">Gold</string>
+    <string name="epf_ppf">EPF/PPF</string>
+    <string name="banks">Banks</string>
+    <string name="fixed_deposits">Fixed Deposits</string>
+    <string name="recurring_deposits">Recurring Deposits</string>
+    
+    <!-- Transactions -->
+    <string name="credit">Credit</string>
+    <string name="debit">Debit</string>
+    <string name="all">All</string>
+    
+    <!-- SMS Parsing -->
+    <string name="sms_permission_title">SMS Permission Required</string>
+    <string name="sms_permission_message">Dhan-Rakshak needs SMS access to automatically track your bank transactions. Your data never leaves your device.</string>
+    <string name="analyzing_transaction">Analyzing Transaction…</string>
+    
+    <!-- Actions -->
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="import_data">Import</string>
+    <string name="export_data">Export</string>
+    
+    <!-- Empty States -->
+    <string name="no_transactions">No transactions yet</string>
+    <string name="no_assets">No assets added</string>
+    <string name="add_first_asset">Add your first asset to get started</string>
+    <string name="no_stocks">No stocks in portfolio</string>
+    <string name="no_mutual_funds">No mutual funds in portfolio</string>
+    <string name="no_bank_accounts">No bank accounts added</string>
+    <string name="no_fixed_deposits">No fixed deposits</string>
+    <string name="no_recurring_deposits">No recurring deposits</string>
+    
+    <!-- Settings -->
+    <string name="backup_restore">Backup &amp; Restore</string>
+    <string name="security">Security</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+
+    <!-- Widget -->
+    <string name="widget_description">Shows your total net worth and daily profit/loss at a glance</string>
+
+    <!-- Budget -->
+    <string name="budget">Budget</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="budget_remaining">Remaining</string>
+    <string name="over_budget">Over Budget!</string>
+
+    <!-- AI -->
+    <string name="ai_powered">AI-Powered</string>
+    <string name="on_device_ai">On-Device AI</string>
+    <string name="ai_unavailable">AI not available on this device</string>
+</resources>

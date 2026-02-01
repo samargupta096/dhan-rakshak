@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widgetContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/widget_background"
+    android:gravity="center">
+
+    <!-- App name -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="12sp"
+        android:textColor="#FFFFFF"
+        android:alpha="0.8" />
+
+    <!-- Net Worth label -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Net Worth"
+        android:textSize="11sp"
+        android:textColor="#FFFFFF"
+        android:alpha="0.6"
+        android:layout_marginTop="4dp" />
+
+    <!-- Net Worth value -->
+    <TextView
+        android:id="@+id/textNetWorth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="₹0"
+        android:textSize="22sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:layout_marginTop="2dp" />
+
+    <!-- Profit/Loss -->
+    <TextView
+        android:id="@+id/textProfitLoss"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+₹0 (0%)"
+        android:textSize="12sp"
+        android:textColor="@color/credit_green"
+        android:layout_marginTop="4dp" />
+
+    <!-- Refresh button -->
+    <ImageButton
+        android:id="@+id/btnRefresh"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_refresh"
+        android:contentDescription="Refresh"
+        android:tint="#FFFFFF"
+        android:alpha="0.7" />
+
+</LinearLayout>
