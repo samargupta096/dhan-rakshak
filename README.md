@@ -1,5 +1,7 @@
 # Dhan-Rakshak 🛡️💰
 
+![Visitors](https://komarev.com/ghpvc/?username=Samarpitgupta&repo=dhan-rakshak&label=Visitors&color=0e75b6&style=flat)
+
 **Your Personal Financial Guardian.**
 
 Dhan-Rakshak is a privacy-first, offline-capable Android application designed to help you master your finances. Built with modern Android technologies, it provides a unified view of your net worth, expenses, and investments without compromising your data security.
